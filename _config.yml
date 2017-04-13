@@ -1,6 +1,6 @@
 name: Prototype01 of the opencare project
 markdown: kramdown
-baseurl: /MicroWebsiteTemplate
+baseurl: 
 permalink: /blog/:year/:month/:day/:title/
 gems:
   - jekyll-sitemap
