@@ -1,9 +1,22 @@
-name: Prototype01 of the opencare project
+name: MicroWebsiteTemplate by opencarecc
+author: WeMake
 markdown: kramdown
 baseurl: 
-permalink: /blog/:year/:month/:day/:title/
-gems:
+permalink: blog/:year/:month/:day/:title/
+plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-paginate: 10
-paginate_path: /blog/page:num/
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "MicroWebsiteTemplate by opencarecc"
+tagline: "This is the template for opencarecc websites"
+
+# multilingual stuff
+index:
+  it: it/index.html
+  en:
+
+default_lang: "en"
