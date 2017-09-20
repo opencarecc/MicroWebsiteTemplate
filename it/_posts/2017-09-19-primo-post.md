@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Primo post IT"
+subtitle: "Il primo post di test in italiano"
 date: 2017-09-19
 image: "/assets/flyer.jpg"
 categories: ["categoria1"]

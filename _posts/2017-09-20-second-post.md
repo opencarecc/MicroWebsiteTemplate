@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Second post EN"
+subtitle: "The second test post in english"
 date: 2017-09-20
 image: ""
 categories: ["category2"]
