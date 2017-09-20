@@ -14,15 +14,15 @@ global:
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "open rampette"
-  tagline: "accessible shops for everyone"
+  title: "MicroWebsiteTemplate"
+  tagline: "This is the template for opencarecc websites"
   buttons:
     - text: "View on GitHub"
-      link: "https://github.com/opencarecc/openrampette"
+      link: "https://github.com/opencarecc/MicroWebsiteTemplate"
     - text: "Download .zip"
-      link: "https://github.com/opencarecc/openrampette/zipball/master"
+      link: "https://github.com/opencarecc/MicroWebsiteTemplate/zipball/master"
     - text: "Build your own!"
-      link: "https://github.com/opencarecc/openrampette/wiki"
+      link: "https://github.com/opencarecc/MicroWebsiteTemplate/wiki"
 
 # dictionary keys for video.html include file
 video:
