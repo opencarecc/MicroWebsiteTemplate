@@ -34,18 +34,14 @@ video:
 topics:
   title: "I temi trattati"
   topic_column:
-    - title: "La chiamata"
-      description: "Miglioriamo l'esperienza di utilizzo della rampa mobile a chiamata"
-      link: "chiamata"
-      img_url: "assets/images/device-custom.png"
-    - title: "La procedura"
-      description: "Snelliamo la procedura di regolamentarizzazione dei commercianti"
-      link: "procedura"
-      img_url: "assets/images/procedura.png"
-    - title: "La comunicazione"
-      description: "Mettiamo in mostra i negozi accessibili e creiamo un dialogo costruttivo"
-      link: "comunicazione"
-      img_url: "assets/images/sticker.png"
+    - title: "Pagina 1"
+      description: "questa è la descrizione del tema 1"
+      link: "it/pagina1"
+      img_url: "assets/flyer.jpg"
+    - title: "Pagina 2"
+      description: "questa è la descrizione del tema 2"
+      link: "it/pagina2"
+      img_url: "assets/flyer.jpg"
 
 # dictionary keys for slick_slider.html include file
 slick:

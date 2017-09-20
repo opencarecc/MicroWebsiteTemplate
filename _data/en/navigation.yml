@@ -1,15 +1,13 @@
 - title: ABOUT
   url: /about
 
-# - title: THEMES
-#   url: /pages
-#   sublinks:
-#     - title: THE CALL
-#       url: /call
-#     - title: THE PROCEDURE
-#       url: /procedure
-#     - title: COMMUNICATION
-#       url: /communication
+- title: PAGES
+  url: /pages
+  sublinks:
+    - title: PAGE 1
+      url: /page1
+    - title: PAGE 2
+      url: /page2
 
 - title: NEWS
   url: /blog
