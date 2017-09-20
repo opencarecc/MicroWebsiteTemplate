@@ -3,11 +3,11 @@ layout: default
 title: About
 published: true
 ref: about
-lang: en
+lang: it
 ---
 
 # About page
 
-*this is an about page in english*
+*questa è una nuova pagina in italiano*
 
 *lorem ipsum etc etc*
