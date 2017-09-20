@@ -1,4 +1,4 @@
-name: MicroWebsiteTemplate by opencarecc
+name: MicroWebsite<br>Template
 author: WeMake
 markdown: kramdown
 baseurl: 
@@ -16,7 +16,7 @@ tagline: "This is the template for opencarecc websites"
 
 # multilingual stuff
 index:
-  it: it/index.html
   en:
+  it: it/index.html
 
 default_lang: "en"
