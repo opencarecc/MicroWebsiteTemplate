@@ -61,7 +61,7 @@ header {
   transition: box-shadow 0s;
 }
 header h1 {
-  max-width: 16rem;
+  max-width: 6rem;
   font-size: 1.45rem;
   text-align: left;
   color: #159957;
@@ -104,7 +104,7 @@ header.shrink {
   padding: 2rem 4rem;
   /*background: rgba(255,255,255,.5);*/
   display: block;
-  overflow: hidden;
+  /*overflow: hidden;*/
   margin: 0 auto;
 }
 
@@ -394,7 +394,7 @@ header.shrink #lang-picker .dropdown-content {
 @media screen and (max-width: 42em) {
   #nav-container {
     padding: 0 1rem;
-    overflow-x: hidden;
+    overflow: hidden;
     max-width: 100%;
   }
   nav a:hover, 
@@ -606,8 +606,8 @@ header {
 .page-header {
   color: #fff;
   text-align: center;
-  background: url(/assets/RePhone-8.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);
-  /*background: url(https://i.ytimg.com/vi/AUUVfPy0UgI/maxresdefault.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);*/
+  /*background: url(/MicroWebsiteTemplate/assets/RePhone-8.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);*/
+  background: url(https://i.ytimg.com/vi/AUUVfPy0UgI/maxresdefault.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
