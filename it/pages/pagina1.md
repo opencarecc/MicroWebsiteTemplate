@@ -24,6 +24,9 @@ permalink: it/pagina1/
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
 
 Si possono anche aggiungere link ai blog post:
+- [Primo post]({% post_url 2017-09-19-primo-post %})
+
+- [Secondo post]({% post_url 2017-09-20-secondo-post %})
 
 
 ### iframe embed
