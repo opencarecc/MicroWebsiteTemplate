@@ -1,8 +1,19 @@
+<!-- To edit the content of this module please check lang.yml -->
 <div class="column">
-  <h2>How to contribute</h2>
+  <!-- title -->
+  <h2>{{ site.data[page.lang].lang["contribute"]["title"] }}</h2>
+
+  <!-- content -->
   <ul>
-    <li>Contribute 1</li>
-    <li>Contribute 2</li>
-    <li>Contribute 3</li>
+    {% for item in site.data[page.lang].lang["contribute"]["contribution_guidelines"] %}
+      <li>{{ item.guideline }}</li>
+    {% endfor %}
   </ul>
+
+  <!-- link to more -->
+  <p>
+    {% for item in site.data[page.lang].lang["contribute"]["more_link"] %}
+      <a href="{{ item.link }}"><em>{{ item.text }} &raquo;</em></a>
+    {% endfor %}
+  </p>
 </div>
