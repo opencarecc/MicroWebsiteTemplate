@@ -1,15 +1,19 @@
+<!-- To edit the content of this module please check lang.yml -->
 <div class="column">
-  <h2>Release 0.1 - 2016/09/12</h2>
+  <!-- title -->
+  <h2>{{ site.data[page.lang].lang["release_notes"]["title"] }}</h2>
+
+  <!-- content -->
   <ul>
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-    <li>Feature 3</li>
-    <li>Feature 4</li>
-    <li>Feature 5</li>
+    {% for item in site.data[page.lang].lang["release_notes"]["notes"] %}
+      <li>{{ item.note }}</li>
+    {% endfor %}
   </ul>
+
+  <!-- link to more -->
   <p>
-    <a href="">
-      <em>More details »</em>
-    </a>
+    {% for item in site.data[page.lang].lang["release_notes"]["more_link"] %}
+      <a href="{{ item.link }}"><em>{{ item.text }} &raquo;</em></a>
+    {% endfor %}
   </p>
 </div>

@@ -1,7 +1,13 @@
 ---
 layout: default
-title: About Prototype01 by opencare.cc
+title: About
+published: true
+ref: about
+lang: en
 ---
 
 # About page
+
+*this is an about page in english*
+
 *lorem ipsum etc etc*
