@@ -24,9 +24,9 @@ default_lang: "en"
 # Facebook OpenGraph stuff
 opengraph:
   title: "MicroWebsiteTemplate by opencarecc"
-  url: "https://opencarecc.github.io/MicroWebsiteTemplate/"
+  url: "http://opencarecc.github.io/MicroWebsiteTemplate/"
   description: "This is the template for opencarecc websites"
-  image_url: "https://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-colortext.svg"
+  image_url: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-socials.png"
 
 # Twitter Card stuff
 twitter:
@@ -34,5 +34,5 @@ twitter:
   title: "MicroWebsiteTemplate by opencarecc"
   description: "This is the template for opencarecc websites"
   creator: "opencarecc"
-  domain: "https://opencarecc.github.io/MicroWebsiteTemplate/"
-  image_url: "https://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-colortext.svg"
+  domain: "http://opencarecc.github.io/MicroWebsiteTemplate/"
+  image_url: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-socials.png"
