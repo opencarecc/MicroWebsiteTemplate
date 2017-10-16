@@ -1,7 +1,7 @@
 name: MicroWebsite<br>Template
 author: WeMake
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: blog/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
@@ -20,3 +20,19 @@ index:
   it: it/index.html
 
 default_lang: "en"
+
+# Facebook OpenGraph stuff
+opengraph:
+  title: "MicroWebsiteTemplate by opencarecc"
+  url: "https://opencarecc.github.io/MicroWebsiteTemplate/"
+  description: "This is the template for opencarecc websites"
+  image_url: "https://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-colortext.svg"
+
+# Twitter Card stuff
+twitter:
+  site: "opencarecc MicroWebsiteTemplate"
+  title: "MicroWebsiteTemplate by opencarecc"
+  description: "This is the template for opencarecc websites"
+  creator: "opencarecc"
+  domain: "https://opencarecc.github.io/MicroWebsiteTemplate/"
+  image_url: "https://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-colortext.svg"
