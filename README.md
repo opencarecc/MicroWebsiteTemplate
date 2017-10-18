@@ -1,2 +1,1 @@
-# MicroWebsiteTemplate
-This is the template for Prototypes' websites
+In this branch are stored all the images for the wiki section of the repository
