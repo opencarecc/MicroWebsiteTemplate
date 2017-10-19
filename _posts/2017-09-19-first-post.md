@@ -3,7 +3,7 @@ layout: post
 title: "First post EN"
 subtitle: "The first test post in english"
 date: 2017-09-19
-image: "/assets/BG-post-img-02.jpg"
+image: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/BG-post-img-02.jpg"
 categories: ["category1"]
 by: "Admin"
 excerpt: "This is the excerpt for First Post EN"
