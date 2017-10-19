@@ -3,7 +3,7 @@ layout: post
 title: "Secondo post IT"
 subtitle: "Il secondo post di test in italiano"
 date: 2017-09-20
-image: ""
+image: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/BG-post-img-interview.jpg"
 categories: ["categoria2"]
 by: "Admin"
 excerpt: "Questo è l'excerpt per Secondo Post IT"

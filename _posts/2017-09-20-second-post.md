@@ -3,7 +3,7 @@ layout: post
 title: "Second post EN"
 subtitle: "The second test post in english"
 date: 2017-09-20
-image: ""
+image: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/BG-post-img-interview.jpg"
 categories: ["category2"]
 by: "Admin"
 excerpt: "This is the excerpt for Second Post EN"
