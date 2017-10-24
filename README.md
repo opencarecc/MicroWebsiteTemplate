@@ -8,3 +8,5 @@ How to include an image asset in the wiki:
 * once the image is loaded, right click on the image itself
 * click on *"Copy Image Address"*
 * paste in the wiki
+
+_**IMPORTANT: please never merge this branch into another branch**_
