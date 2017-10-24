@@ -4,7 +4,7 @@ This branch of the repository includes all the files to build a Micro Website Te
 
 Please check the [wiki](https://github.com/opencarecc/MicroWebsiteTemplate/wiki) section to know how to:
 * clone the MicroWebsiteTemplate to start a new website
-* (eventually setup Jekyll locally on your machine to preview changes)
+* (eventually setup Jekyll locally on your machine to preview changes before pushing)
 * edit content
 * add new content
 * manage and maintain the website
