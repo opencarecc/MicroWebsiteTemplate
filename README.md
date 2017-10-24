@@ -11,8 +11,8 @@ Please check the [wiki](https://github.com/opencarecc/MicroWebsiteTemplate/wiki)
 
 ## Bug reporting and Contributions
 * If you want to report a bug please do so in the *[Issues](https://github.com/opencarecc/MicroWebsiteTemplate/issues)* section of the repository (<https://github.com/opencarecc/MicroWebsiteTemplate/issues>) and mark it with a _**BUG**_ label. Before adding a bug please do a quick search under the *BUG* label to check for known issues and avoid duplicates.
-* If you want to contribute please have a look under the _**TO DO**_ and _**WISH**_ labels to see what features are in the pipeline and what is the status of their development.
-* If you want to contribute with a new feature please open a new issue under the _**PROPOSAL**_ label explaining about it.
+* If you want to contribute please first have a look under the _**TO DO**_ and _**WISH**_ labels to see what features are in the pipeline and what is the status of their development.
+  * If you want to contribute with a new feature please open a new issue under the _**PROPOSAL**_ label explaining about it.
 
 ## Contacts
 
