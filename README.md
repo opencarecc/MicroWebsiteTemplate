@@ -4,6 +4,8 @@ This repository includes the Template for all the micro websites related to the 
 
 Please use it as a reference and a starting point to create new micro websites within the opencare.cc project.
 
+See it live at: [https://opencarecc.github.io/MicroWebsiteTemplate/](https://opencarecc.github.io/MicroWebsiteTemplate/)
+
 ## It includes
 * All the website files in the [`gh-pages`](https://github.com/opencarecc/MicroWebsiteTemplate/tree/gh-pages) branch
 * A guide on how to add and edit content, and manage the micro websites in the [wiki](https://github.com/opencarecc/MicroWebsiteTemplate/wiki) section fo the repo
