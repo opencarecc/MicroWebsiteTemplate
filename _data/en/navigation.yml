@@ -1,10 +1,12 @@
 - title: ABOUT
-  url: /about
+  url: /
    sublinks:
+    - title: ABOUT
+      url: /about
     - title: PAGE 1
       url: /page1
     - title: PAGE 2
-      url: /page2 
+      url: /page2
 
 - title: PAGES
   url: /pages
